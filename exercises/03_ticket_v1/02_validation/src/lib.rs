@@ -1,5 +1,3 @@
-use std::thread::panicking;
-
 struct Ticket {
     title: String,
     description: String,
